@@ -53,6 +53,11 @@ Enter a cybersecurity technique: powershell obfuscation
    ...
 Blue Engine will scan all sources and provide you with highly relevant links for your cybersecurity research!
 
+![image](https://github.com/user-attachments/assets/f34553c0-c802-437e-a3b2-40f8edfd242f)
+
+![image](https://github.com/user-attachments/assets/84d2b819-99bb-4997-98e9-e649998445af)
+
+
 🤝 Contributions
 💙 We welcome issues and pull requests in this GitHub repository! If you:
 
@@ -60,6 +65,9 @@ Found a bug 🐞
 Want to add new data sources 📡
 Have an enhancement idea 🚀
 Feel free to open an issue or submit a pull request!
+
+
+
 
 📌 License
 This project is open-source and free to use. Stay curious, and happy threat hunting! 🎯🔍🔥
